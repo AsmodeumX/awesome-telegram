@@ -1,2 +1,2 @@
-# awesome-telegram
-A collection of awsome Telegram channels
+# Awesome Telegram
+A collection of awesome Telegram channels
