@@ -5,6 +5,7 @@ A collection of awesome Telegram channels
 
 |Channel|Language|Description|
 |:------|:-------|:----------|
+|[Algorithms Books](https://t.me/algorithms_a)|EN|Algorithms and data structures books|
 |[Java Books Library](https://t.me/java_books_library)|EN|Java books|
 
 ### Learning
