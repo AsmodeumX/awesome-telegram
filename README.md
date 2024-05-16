@@ -13,3 +13,4 @@ A collection of awesome Telegram channels
 |Channel|Language|Description|
 |:------|:-------|:----------|
 |[Free java Tutorial](https://t.me/corejavabasicconcept)|EN|Free tutorials for java|
+|[JavaScript](https://t.me/javascript)|EN| JavaScript resources|
